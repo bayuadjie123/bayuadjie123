@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @bayuadjie123
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-bayuadjie123/bayuadjie123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<b> MACHINE LEARNING FINAL PROJECT | ROCK PAPER & SCISSORS IMAGE </b>
+<br>
+Project ini digunakan untuk submission kelas "Belajar Machine Learning untuk Pemula" di Dicoding.com
